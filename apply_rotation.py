@@ -3,7 +3,7 @@ bl_info = {
     "name": "Correct Asset Display",
     "author": "Marshall Flynn",
     "version": (1, 0, 0),
-    "blender": (4, 3, 0),
+    "blender": (4, 2, 0),
     "category": "Assets",
 }
 
